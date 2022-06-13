@@ -9,35 +9,35 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "🇩🇪ؖؖؖؖؖؖؖؖؖؖ𓆩『𖤍𝑬𝑰𝑺𝑨㉨』𝑴𝑶𝑯𝑨𝑴𝑬𝑫𓆪ؖؖؖؖؖؖؖؖؖ✹ ⃝⃙𓆩™"
     },
     "APP_ID": {
       "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
-      "value": ""
+      "value": "17275339"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
-      "value": ""
+      "value": "8879f3129f1441672989db9be40d99b3"
     },
     "STRING_SESSION": {
       "description": "هنا ضع كود تيرمكس الخاص بك",
-      "value": ""
+      "value": "1BJWap1wBuwauS37TTo4cpZv-pVjnK1mJgNko6IzOCP2qJrYaeZ0qLu-V5pmC4JgjUyzSz2ZgoXoJPuSTGCziEeCZk6nPl64cx7vmtpKPDzOdqA01-DGBV3sZxFvWuczX6sziNiL85h8Sg5VKzCsVJcT2WS2mwm0LVmT2xlKhjdSrLU9-JPVHnJmdg1_OCLfWwu4A1Wbsq7-D73YJt8sP8oeymekH4ul8KsDAfx6CAC3edYc-PnIhFmrntSz4z44KjNnBTfh57sDAuQbf_ByxRexd-MQA1azgQq_Oi2MAetIfXoEtqtQcZ87uA4P3JNtpiq-37eow8v_awx-YyspEi_yhPuyuJa0="
     },
     "TG_BOT_USERNAME": {
       "description": "هنا ضع معرف بوتك بدون @",
-      "value": ""
+      "value": "MAIYRTONBOT"
     },
     "TG_BOT_TOKEN": {
       "description": "هنا ضع توكن بوتك",
-      "value": ""
+      "value": "5334038164:AAHL6T1Tvs9UPlT04kHTR7GmpsbXsLT4Pus"
     },
     "COMMAND_HAND_LER": {
       "description": "ضع هنا رمز الأمر الذي تريدة أو اتركة كما هوة",
-      "value": "."
+      "value": "!"
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Cairo",
       "required": false
     },
     "UPSTREAM_REPO": {
